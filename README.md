@@ -1,7 +1,6 @@
-# Chicagos-Traffic-Crashes-Analyzed
-# Traffic Crash Data Analysis with Pandas, Python, Matplotlib, and Google Colab. 
+# Traffic Crash Data Analysis with Pandas, Python, Google Colab, and Matplotlib
 
-This repository provides a step-by-step tutorial on performing data analysis using a real-world dataset of traffic crashes. We'll leverage the power of Python's pandas library for data manipulation, Matplotlib for visualization, and Google Colab for an interactive coding environment. 
+This repository provides a step-by-step tutorial on performing data analysis using a real-world dataset of traffic crashes. We'll leverage the power of Python's pandas library for data manipulation, Matplotlib for visualization, and Google Colab for an interactive coding environment.
 
 ## Project Overview
 
@@ -23,7 +22,7 @@ This tutorial walks you through the process of:
 
 The data used in this tutorial is the "Traffic Crashes - Crashes" dataset, which is publicly available. You can download the latest version of this dataset from the City of Chicago's data portal:
 
-[Download Traffic Crashes - Crashes Dataset]([https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data](https://data.cityofchicago.org/d/85ca-t3if))
+[Download Traffic Crashes - Crashes Dataset](https://data.cityofchicago.org/d/85ca-t3if)
 
 ### How to get the data:
 1. Visit the link above.
@@ -37,5 +36,3 @@ The data used in this tutorial is the "Traffic Crashes - Crashes" dataset, which
 2.  **Download the dataset** as instructed above and place it where your Colab notebook can access it (e.g., your Google Drive).
 3.  **Follow the code cells sequentially**: Each code cell is designed to build upon the previous one, guiding you through the data analysis process.
 4.  **Experiment**: Feel free to modify the code, try different analyses, and explore other aspects of the dataset!
-
-Let's get started with understanding traffic patterns!
